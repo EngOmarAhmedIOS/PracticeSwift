@@ -1,2 +1,2 @@
-# PracticeiOS
-This repo includes 10 problems and there solution that will help you practice Swift, for beginners.
+# Practice iOS
+This repo includes 10 problems and their solutions that will help you practice Swift, for beginners.
